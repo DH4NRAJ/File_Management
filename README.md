@@ -7,7 +7,7 @@ Simple Python script to arrange and disarrange files
 ```
 python 3.8.2
 ```
-<img src= "images/main.png">
+<img src= "images/main.png" height = '100'>
 
 
 ### Arranging Files
