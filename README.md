@@ -1,4 +1,4 @@
-# File_Management
+# File Management
 
 Simple Python script to arrange and disarrange files
 
@@ -8,12 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-Give examples
+python 3.8.2
 ```
-
 ## Running the tests
 
 Explain how to run the automated tests for this system
