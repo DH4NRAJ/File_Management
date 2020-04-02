@@ -12,8 +12,8 @@ def disarrange(main, dirs):
 if __name__ == "__main__":
     path = os.getcwd()
     if len(sys.argv) == 3:
-        dirs = path+ '/' + sys.argv[1]      #dir which has all the files
-        main = path+ '/' + sys.argv[2]      # dir where all the files are being copyed
+        dirs = path+ '/' + sys.argv[1]      #dir which has all the files.
+        main = path+ '/' + sys.argv[2]      #dir where all the files are being copyed.
     else:
         print("error entering arguments")
 
