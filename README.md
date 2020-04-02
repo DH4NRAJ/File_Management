@@ -9,16 +9,28 @@ python 3.8.2
 ```
 ### Arranging Files
 
-Explain how to run the automated tests for this system
+Make sure that the python script, test and output are under same directory. 
+
+```
+$python arrange.py test
+```
+run this command to arrange the files.
+test - name of the directory which has all the files.
+ouput - files are copied and arranged in this directory.
+
 
 ### Disarranging Files
 
-Explain what these tests test and why
+
+Make sure that the python script, test and output are under same directory. 
 
 ```
-Give an example
+$python disarrange.py test output
 ```
+run this command to arrange the files.
+test - name of the directory which has all the files.
+ouput - files are copied and disarranged in this directory.
 
 ## Authors
 
-[Dhanraj K](https://github.com/DH4NRAJ)
+  [Dhanraj K](https://github.com/DH4NRAJ)
