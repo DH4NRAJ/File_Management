@@ -22,7 +22,7 @@ test - directory which has all the files.
 ouput - files are copied and arranged in this directory.
 
 
-<img src= "images/arrange.png" '>
+<img src= "images/arrange.png" >
 
 
 ### Disarranging Files
