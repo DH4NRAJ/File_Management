@@ -40,6 +40,6 @@ ouput - files are copied and disarranged in this directory.
 <img src= "images/disarrange.png" >
 
 
-## Authors
+## Author
 
   [Dhanraj K](https://github.com/DH4NRAJ)
