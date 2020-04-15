@@ -42,4 +42,4 @@ Ouput - files are copied and disarranged in this directory.
 
 ### Author
 
-  [Dhanraj K](https://github.com/DH4NRAJ)
+  [Dhanraj](https://github.com/DH4NRAJ)
